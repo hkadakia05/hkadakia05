@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkadakia05
-- 👀 I’m interested in Compuer Science and anything science related
-- 🌱 I’m currently learning html,css,python,and Java
-- 💞️ I’m looking to collaborate on html or any projects!
+- 👀 I’m interested in Compuer Science and anything science related!
+- 🌱 I’m currently learning python!
+- 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me : Helikadakia05@gmail.com
 
 <!---
