@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hkadakia05
 - 👀 I’m interested in Compuer Science and anything science related!
-- 🌱 I’m currently learning python!
+- 🌱 I’m currently learning Mobile Development
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me : Helikadakia05@gmail.com
 
