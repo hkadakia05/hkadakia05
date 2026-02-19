@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @hkadakia05
 - 👀 I'm interested in Compuer Science and anything science related!
 - 🌱 I'm currently learning Mobile Development
-- 💞️ I'm looking to collaborate on any projects!
+- 💞️ Contributing to Open Source is my hobby! :P
 - 📫 How to reach me : Helikadakia05@gmail.com
 
 <!---
